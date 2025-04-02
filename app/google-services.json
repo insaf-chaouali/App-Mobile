@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109031436931",
+    "project_id": "myapplica-67222",
+    "storage_bucket": "myapplica-67222.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109031436931:android:c724164abbbd73d6baa1b6",
+        "android_client_info": {
+          "package_name": "com.example.myapplica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJNyHz21J8bMKL9aEu1OPKBd75LZ9FZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
